@@ -1,0 +1,1 @@
+Example of TDD on a simple trim function
